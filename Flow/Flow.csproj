@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Entity\EntityGroup.cs" />
+    <Compile Remove="Entity\IDesign.cs" />
+    <Compile Remove="Entity\IFlow.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Toolkit\General.csproj" />
+  </ItemGroup>
+
+</Project>
