@@ -1,6 +1,6 @@
-﻿using Flow.Entity;
+﻿using System;
+using Flow.Entity;
 using Product;
-using System;
 
 namespace SampleConsole
 {

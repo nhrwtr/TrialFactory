@@ -1,5 +1,4 @@
 ﻿using Flow.Enum;
-using General.Util;
 
 namespace Flow.Entity
 {

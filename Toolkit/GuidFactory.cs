@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
-namespace General.Util
+namespace Tools
 {
     public class GuidFactory
     {

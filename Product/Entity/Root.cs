@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Flow.Entity
+﻿namespace Flow.Entity
 {
     public class Root : Entity
     {

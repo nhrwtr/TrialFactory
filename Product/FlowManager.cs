@@ -1,8 +1,6 @@
-﻿using Flow.Entity;
-using Product;
-using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.ComponentModel;
+using Flow.Entity;
 
 namespace Product
 {

@@ -1,8 +1,6 @@
-﻿using Flow.Enum;
-using System;
+﻿using System;
 using System.Collections.Generic;
-using System.Text;
-using General.Util;
+using Flow.Enum;
 
 namespace Flow.Entity
 {
