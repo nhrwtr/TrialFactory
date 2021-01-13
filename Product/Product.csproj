@@ -18,7 +18,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Flow\Flow.csproj" />
-    <ProjectReference Include="..\Toolkit\Tools.csproj" />
+    <ProjectReference Include="..\Tools\Tools.csproj" />
   </ItemGroup>
 
 </Project>
